@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ej1Funciones {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner scanner = new Scanner(System.in);
 int num;
 System.out.println("Digite hasta que numero quiere evaluar");
